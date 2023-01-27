@@ -1,4 +1,4 @@
-# T301 DF to Harman
+# Tago T3-01 Harman OE 2018 EQ
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
@@ -51,3 +51,6 @@ Apply preamp of -19.4 dB when using parametric equalizer.
 
 ### Graphs
 ![](./T301%20DF%20to%20Harman.png)
+
+### Original frequency response
+![](./Original%20FR.png)
